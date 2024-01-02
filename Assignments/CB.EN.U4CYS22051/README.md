@@ -6,7 +6,7 @@
 
 #### Team Members
 - [R Sruthi](https://github.com/R-Sruthi)
-- [Sree Sarvesh](https://github.com/Sharvesh27)
+- [Sree Sharvesh](https://github.com/Sharvesh27)
 
 ### Deliverable 
 - [User Interface](ui/)
