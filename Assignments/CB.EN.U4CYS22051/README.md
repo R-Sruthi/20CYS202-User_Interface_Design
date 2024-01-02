@@ -12,10 +12,10 @@
 - [User Interface](ui/)
 
 ### Credential
-- For payment page:
+- **For payment page:**
 - Roll.no : CB.EN.UX2XXXX
 - Password: XXXX(4 digit number)
 
-- For login page :
-- Email : College email Id
-- Password : Any password
+- **For login page :**
+  - **Email :** College email Id
+  - **Password :** Any password
